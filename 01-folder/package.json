@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "06-tailwind",
-=======
   "name": "01-folder",
->>>>>>> 8d7120199debc28e3fe50fee23908631dd9e139b
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,16 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@tailwindcss/vite": "^4.1.18",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "tailwindcss": "^4.1.18"
-=======
-    "lucide-react": "^0.563.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
->>>>>>> 8d7120199debc28e3fe50fee23908631dd9e139b
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
